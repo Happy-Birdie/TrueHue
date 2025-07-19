@@ -1,2 +1,2 @@
-# NextStep-Hacks-2025
-Project code for hackathon
+## TrueHue
+A realtime assitive dalonization tool for deuteranopia
