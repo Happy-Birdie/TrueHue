@@ -1,2 +1,2 @@
 ## TrueHue
-A realtime assitive dalonization tool for deuteranopia
+A real-time assistive daltonization tool for deuteranopia
